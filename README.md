@@ -1,6 +1,5 @@
 # Discord-Example-ComponentsV2-Go
 # DiscordGo — Components V2 Full Documentation
-### Documentation By Author Pepsi
 
 An in-depth reference guide for designing rich, modern Discord bot UIs using **Components V2** with [`discordgo`](https://github.com/bwmarrin/discordgo) (bwmarrin/discordgo).
 
@@ -1069,5 +1068,5 @@ discordgo-specific notes:
 
 # Author
 
-Lino
+Pepsi
 *(Go/discordgo conversion)*
