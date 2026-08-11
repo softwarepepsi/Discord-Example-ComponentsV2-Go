@@ -60,7 +60,7 @@ Native support landed in discordgo **v0.29.0** (PR #1616), so `go get github.com
 ## Requirements & Setup
 
 ```bash
-go get github.com/bwmarrin/discordgo@v0.29.0
+https://go.dev/doc/install
 ```
 
 **Important:** Components V2 requires **discordgo v0.29.0+**. Earlier tagged releases don't have the component types at all — check `go.mod` if you hit "undefined: discordgo.Container" errors.
